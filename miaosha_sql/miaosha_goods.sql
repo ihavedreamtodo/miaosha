@@ -1,0 +1,2 @@
+INSERT INTO `miaosha_goods` VALUES (1, 1, 0.01, 297, '2019-1-23 11:54:41', '2019-10-7 11:54:45');
+INSERT INTO `miaosha_goods` VALUES (2, 2, 0.03, 263, '2019-3-5 10:43:53', '2019-10-8 10:44:02');
